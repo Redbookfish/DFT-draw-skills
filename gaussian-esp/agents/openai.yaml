@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gaussian ESP"
+  short_description: "Gaussian+Multiwfn+VMD联用计算分子静电势"
+  default_prompt: "使用 $gaussian-esp 计算分子的静电势分布并可视化"

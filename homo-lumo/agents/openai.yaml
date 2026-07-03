@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "HOMO/LUMO"
+  short_description: "Gaussian+Multiwfn+VMD绘制分子前线轨道"
+  default_prompt: "使用 $homo-lumo 计算分子HOMO和LUMO轨道并可视化"

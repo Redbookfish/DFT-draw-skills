@@ -1,0 +1,15 @@
+{
+  "gaussian": {
+    "exe_dir": "D:\\G16W",
+    "exe": "D:\\G16W\\g16.exe"
+  },
+  "multiwfn": {
+    "dir": "D:\\Multiwfn_3.8_dev_bin_Win64",
+    "exe": "D:\\Multiwfn_3.8_dev_bin_Win64\\Multiwfn.exe"
+  },
+  "vmd": {
+    "dir": "D:\\VMD",
+    "exe": "D:\\VMD\\vmd.exe"
+  },
+  "work_dir": "%USERPROFILE%\\Desktop\\ESP计算"
+}

@@ -83,3 +83,24 @@ DFT-draw-skills/
     ├── references/
     └── scripts/
 ```
+
+## 致谢与引用
+
+本技能集中的 Multiwfn 操作流程学习自 **卢天（Sob）老师** 的网络教程。Multiwfn 是一款免费、开源的波函数分析程序，由卢天老师开发维护。
+
+**发表文章时请务必正确引用 Multiwfn：**
+
+> Tian Lu, Feiwu Chen. *Multiwfn: A multifunctional wavefunction analyzer*. J. Comput. Chem., **33**, 580-592 (2012).
+> DOI: [10.1002/jcc.22885](https://doi.org/10.1002/jcc.22885)
+
+更多资源：
+- Multiwfn 官网: [http://sobereva.com/multiwfn](http://sobereva.com/multiwfn)
+- 卢天老师博客（计算化学社）: [http://sobereva.com](http://sobereva.com)
+
+## 打赏
+
+如果这些技能对你有帮助，欢迎请我喝杯咖啡 ☕
+
+> 将你的微信/支付宝收款码截图保存为 `donate.png`，放在仓库根目录，然后取消下面一行的注释即可显示。
+
+<!-- ![打赏](donate.png) -->

@@ -90,9 +90,6 @@ DFT-draw-skills/
 
 **发表文章时请务必正确引用 Multiwfn：**
 
-> Tian Lu, Feiwu Chen. *Multiwfn: A multifunctional wavefunction analyzer*. J. Comput. Chem., **33**, 580-592 (2012).
-> DOI: [10.1002/jcc.22885](https://doi.org/10.1002/jcc.22885)
-
 更多资源：
 - Multiwfn 官网: [http://sobereva.com/multiwfn](http://sobereva.com/multiwfn)
 - 卢天老师博客（计算化学社）: [http://sobereva.com](http://sobereva.com)

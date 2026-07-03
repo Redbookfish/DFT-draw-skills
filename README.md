@@ -98,7 +98,7 @@ DFT-draw-skills/
 
 如果这些技能对你有帮助，欢迎请我喝杯咖啡 ☕
 
-> 将你的微信/支付宝收款码截图保存为 `donate.png`，放在仓库根目录，然后取消下面一行的注释即可显示。
 
-<!-- ![打赏](donate.png) -->
+<!-- ![打赏](<img width="1080" height="1620" alt="6599be4d10d253a4547f3d6eb4e50b91" src="https://github.com/user-attachments/assets/714b28df-dd80-47bc-a6dc-e7b379c72158" />
+) -->
 

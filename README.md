@@ -99,6 +99,5 @@ DFT-draw-skills/
 如果这些技能对你有帮助，欢迎请我喝杯咖啡 ☕
 
 
-<!-- ![打赏](<img width="1080" height="1620" alt="6599be4d10d253a4547f3d6eb4e50b91" src="https://github.com/user-attachments/assets/714b28df-dd80-47bc-a6dc-e7b379c72158" />
-) -->
+<img src="assets/alipay_donate.jpg" alt="支付宝打赏" width="250">
 
